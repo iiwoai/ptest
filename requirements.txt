@@ -1,0 +1,9 @@
+passlib
+django==1.10.3
+simplejson
+supervisor
+uwsgi
+MySQL-python
+redis
+pyte
+django-crontab
